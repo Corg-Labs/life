@@ -1,3 +1,4 @@
+=== life ===
 /*
  * life.c - Conway's Game of Life in the terminal
  *
@@ -192,3 +193,4 @@ int main(void) {
     }
     return 0;
 }
+
